@@ -1,0 +1,10 @@
+socket
+threading
+tkinter
+requests
+numpy
+pandas
+matplotlib
+scapy
+flask
+django
