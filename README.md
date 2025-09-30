@@ -21,4 +21,4 @@
 
 ---
 
-*For any queries, contact t8761985584*
+*For any queries, contact 8761985584*
