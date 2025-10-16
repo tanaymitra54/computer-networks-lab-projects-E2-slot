@@ -8,6 +8,7 @@
 |------|----------------|---------------------|---------------------------|
 | 1    | Tanay Mitra    | 24BCE1287          | tanay.mitra2024@vitstudent.ac.in |
 | 2    | Adithyan K.R   | 24BCE1303          | adithyan.kr2024@vitstudent.ac.in |
+| 3    | Arnav Thapiyal   | 24BCE1799          | arnav.thapiyal2024@vitstudent.acin |
 
 ## Project Title
 Network Monitoring & Security Dashboard
